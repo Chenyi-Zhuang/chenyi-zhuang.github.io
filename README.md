@@ -1,1 +1,1 @@
-[Personal website](https://chenyi-zhuang.github.io) of Chenyi Zhuang (Akko). Many thanks to [Jon Barron](https://github.com/jonbarron/website?tab=readme-ov-file) for providing us with this great template.
+Personal website of [Chenyi Zhuang](https://chenyi-zhuang.github.io) (Akko). Many thanks to [Jon Barron](https://github.com/jonbarron/website?tab=readme-ov-file) for providing us with this great template.
