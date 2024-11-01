@@ -102,6 +102,10 @@ h2 {
   font-weight: 700;
 }
 
+.paperauthor {
+  font-size: 12px;
+}
+
 .name {
   padding-top: 20px;
   margin: 0;
